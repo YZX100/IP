@@ -55,7 +55,7 @@ def start():
  '----------------'  '----------------' 
     '''
     print(logo)
-
+    print("wirten by YZX100")
 
 def main():
     parser = argparse.ArgumentParser(description="IP网络广播服务平台任意文件上传漏洞")
